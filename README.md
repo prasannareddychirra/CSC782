@@ -1,2 +1,2 @@
-# CSC782
-Big-Data 
+# CSC831
+Databases & Algorithms 
